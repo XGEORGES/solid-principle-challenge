@@ -1,4 +1,4 @@
-class PayPalService:
+class PayPalService: 
     @staticmethod
     def pay(amount: float):
         print(f"Paying {amount} using PayPal...")
